@@ -3,3 +3,5 @@
 /.idea/
 /pretrained/
 /venv/
+/output/
+*.mp4
